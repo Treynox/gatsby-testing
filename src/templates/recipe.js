@@ -5,12 +5,7 @@ import React from 'react'
     <div>
       <h1>{data.recipes.title}</h1>
       <div>
-          {for i = data.recipes.instructions.length
-          {
-            {data.recipes.ingredients[i]}
-          }
-          }
-      
+      STUFF
       </div>
       <p>{data.recipes.instructions}</p>
     </div>
